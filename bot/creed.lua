@@ -236,6 +236,7 @@ function create_config( )
     "all",
     "leave_ban"
     "Setrank"
+    "info"
     },
     sudo_users = {70153760,144658773,179526469},--Sudo users
     disabled_channels = {},
