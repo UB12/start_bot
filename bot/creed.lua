@@ -238,7 +238,7 @@ function create_config( )
     "Setrank"
     "info"
     },
-    sudo_users = {70153760,144658773,179526469},--Sudo users
+    sudo_users = {114008059,144658773},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
@@ -247,9 +247,8 @@ function create_config( )
      
    
    〰〰〰〰〰〰〰〰
-   ߔࠀ   our admins are : 
-   ߔࠀ   @badrabbit
-   ߔࠀ   @mr_hopes
+   ߔࠀ   our admins are :
+   ߔࠀ   @sorblack_2
    ߔࠀ   @yellowhat
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
@@ -354,12 +353,12 @@ function create_config( )
 〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰〰
 
 
-کانال ما : @Pro_Programing
+کانال ما : @tele_start_bot
 
 اعضای اصلی ما : 
 
-@yellowhat & @me_hopes  [سازنده]
-@badrabbit [عضو اصلی ]
+@yellhat & @sorblack_2 [سازنده]
+ 😂hichkas [عضو اصلی ]
 
 
 ]],
@@ -450,9 +449,8 @@ function create_config( )
 
 اعضای اصلی ما : 
 
-@mr_hopes  [سازنده]
+@sorblack_2  [سازنده]
 @yellowhat [سازنده]
-@badrabbit [عضو اصلی]
 ]],
   }
   serialize_to_file(config, './data/config.lua')
